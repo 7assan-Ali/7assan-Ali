@@ -1,22 +1,193 @@
-<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate Data Analysis from Egypt</h3>
+# Hi, I'm Hassan Ali 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7assan-ali&label=Profile%20views&color=0e75b6&style=flat" alt="7assan-ali" /> </p>
+### Data Science & AI Student | Machine Learning | Data Analytics | Python
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7assan-ali" alt="7assan-ali" /></a> </p>
+I'm a Computer Science & Artificial Intelligence student passionate about **Data Science, Machine Learning, Generative AI, and Software Development**.
 
-- 🔭 I’m currently working on [Olist-E-Commerce](https://github.com/7assan-Ali/Olist-E-Commerce-Data-Analysis)
+I enjoy turning data into meaningful insights, building machine learning solutions, and developing practical AI-powered applications.
 
-- 🌱 I’m currently learning **Python , CPP , MySQL**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hassan29ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hassan29ali" height="30" width="40" /></a>
+## 🚀 About Me
+
+* 🎓 Computer Science & Artificial Intelligence Student
+* 🤖 Interested in **Machine Learning & Generative AI**
+* 📊 Interested in **Data Analysis & Data Science**
+* 🐍 Python Developer
+* 🗄️ SQL & Database Enthusiast
+* 📈 Power BI & Data Visualization
+* ⚡ Currently learning **FastAPI & AI Application Development**
+* 💡 Interested in building real-world AI projects
+* 🎯 Goal: Become a professional **Data Scientist / AI Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### Data Science & Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7assan-ali&show_icons=true&locale=en&layout=compact" alt="7assan-ali" /></p>
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7assan-ali&show_icons=true&locale=en" alt="7assan-ali" /></p>
+### Data Analytics & BI
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+### Backend & Development
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* 🔗 LLM Applications
+* ⚡ FastAPI
+* 📊 Advanced Data Analysis
+* 🗃️ Data Engineering Fundamentals
+* 🧩 AI-powered Applications
+
+---
+
+## 📊 Featured Areas
+
+### 📈 Data Analysis
+
+Working with real-world datasets to:
+
+* Clean and preprocess data
+* Handle missing values
+* Perform exploratory data analysis
+* Analyze correlations
+* Create meaningful visualizations
+* Build interactive dashboards
+* Extract business insights
+
+### 🤖 Machine Learning
+
+Learning and implementing:
+
+* Linear Regression
+* Logistic Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Model Evaluation
+* Data Preprocessing
+* Cross Validation
+* Hyperparameter Tuning
+
+### 🧠 Generative AI
+
+Exploring:
+
+* Large Language Models
+* Prompt Engineering
+* Transformers
+* RAG
+* AI Agents
+* AI-powered APIs
+* Generative AI Applications
+
+---
+
+## 🔥 Projects
+
+Some of the areas I'm building projects in:
+
+| Project                   | Technologies            | Focus                 |
+| ------------------------- | ----------------------- | --------------------- |
+| 📊 Data Analysis Projects | Python, Pandas, Seaborn | Data Analysis         |
+| 📈 Business Dashboards    | Power BI, SQL           | Business Intelligence |
+| 🤖 ML Projects            | Python, Scikit-learn    | Machine Learning      |
+| 🧠 AI Applications        | Python, FastAPI         | AI Engineering        |
+| 🗄️ Database Projects     | SQL Server, SQL         | Data Management       |
+
+> 🚧 More projects are currently being developed and will be added here.
+
+---
+
+## 🏆 Certifications & Training
+
+* **IBM AI Developer Professional Certificate**
+* **Data Analysis: Skills for the Freelance Professional**
+* **Digital Egypt Youth Program**
+* **NTI / MCIT Training**
+* Additional training in **Data Science, AI & Generative AI**
+
+---
+
+## 💻 My Development Journey
+
+```text
+Python
+   ↓
+Data Analysis
+   ↓
+SQL & Databases
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+AI Engineering
+```
+
+---
+
+## 📌 What I'm Working Toward
+
+My long-term goal is to combine:
+
+**Data + Machine Learning + Generative AI + Software Engineering**
+
+to build intelligent systems that solve real-world problems.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Feel free to explore my repositories and follow my journey as I build projects in **Data Science, Machine Learning, and AI**.
+
+**Keep Learning. Keep Building. Keep Growing. 🚀**
