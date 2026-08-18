@@ -20,12 +20,12 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I'm a Computer Science & Artificial Intelligence student from Egypt, passionate about 
+I'm a Computer Science & Artificial Intelligence student from Egypt, passionate about
 <strong>Data Analysis, Data Science, Machine Learning, and Generative AI.</strong>
 </p>
 
 <p>
-I enjoy working with data, discovering patterns, building visualizations, and turning 
+I enjoy working with data, discovering patterns, building visualizations, and turning
 raw data into meaningful insights and practical solutions.
 </p>
 
@@ -68,6 +68,7 @@ and extracting useful business insights.
 <h3>🐍 Programming</h3>
 
 <p align="left">
+
 <a href="https://www.python.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
@@ -83,11 +84,13 @@ and extracting useful business insights.
 <a href="https://dart.dev/">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45" alt="Dart"/>
 </a>
+
 </p>
 
 <h3>📊 Data Analysis & Data Science</h3>
 
 <p align="left">
+
 <a href="https://pandas.pydata.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </a>
@@ -107,11 +110,13 @@ and extracting useful business insights.
 <a href="https://scikit-learn.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
 </a>
+
 </p>
 
 <h3>🗄️ SQL & Databases</h3>
 
 <p align="left">
+
 <a href="https://www.mysql.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
 </a>
@@ -119,6 +124,7 @@ and extracting useful business insights.
 <a href="https://www.microsoft.com/sql-server">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="SQL Server"/>
 </a>
+
 </p>
 
 <h3>📈 Business Intelligence & Visualization</h3>
@@ -135,6 +141,20 @@ and extracting useful business insights.
 
 <a href="https://www.microsoft.com/microsoft-365/excel">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="45" height="45" alt="Excel"/>
+</a>
+
+</p>
+
+<h3>🤖 Machine Learning & AI</h3>
+
+<p align="left">
+
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
+</a>
+
+<a href="https://opencv.org/">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV"/>
 </a>
 
 </p>
@@ -172,6 +192,7 @@ and extracting useful business insights.
 <img src="https://img.shields.io/badge/LLM%20Applications-00A67E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
 </p>
 
 <ul>
@@ -188,6 +209,7 @@ and extracting useful business insights.
 
 <table>
 <tr>
+
 <td width="50%">
 
 <h3>📊 Data Analysis</h3>
@@ -217,9 +239,11 @@ and extracting useful business insights.
 </ul>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
 <h3>🤖 Machine Learning</h3>
@@ -237,7 +261,7 @@ and extracting useful business insights.
 
 <td>
 
-<h3>🧠 AI</h3>
+<h3>🧠 Artificial Intelligence</h3>
 
 <ul>
 <li>Generative AI</li>
@@ -248,6 +272,7 @@ and extracting useful business insights.
 </ul>
 
 </td>
+
 </tr>
 </table>
 
@@ -255,41 +280,79 @@ and extracting useful business insights.
 
 <h2>🏆 Training & Certifications</h2>
 
+<p>
+I've completed professional training programs and courses from
+<strong>NTI, DEPI, and IBM</strong>, focusing on Data Analysis, Data Science,
+Artificial Intelligence, and Software Development.
+</p>
+
 <ul>
-  <li>🎓 IBM AI Developer Professional Certificate</li>
-  <li>📊 Data Analysis: Skills for the Freelance Professional</li>
-  <li>🇪🇬 Digital Egypt Youth Program</li>
-  <li>🏫 NTI / MCIT Training</li>
-  <li>🤖 Data Science & AI Training</li>
+
+<li>
+🎓 <strong>NTI – National Telecommunication Institute</strong><br>
+Data Analysis & Freelancing Training
+</li>
+
+<br>
+
+<li>
+🤖 <strong>DEPI – Digital Egypt Pioneers Initiative</strong><br>
+AI & Data Science Training
+</li>
+
+<br>
+
+<li>
+💻 <strong>IBM</strong><br>
+AI Developer Professional Certificate
+</li>
+
 </ul>
 
----
-
-<h2>🎯 My Career Goal</h2>
-
 <p>
-My goal is to become a strong <strong>Data Scientist / AI Engineer</strong> by combining
-data analysis, machine learning, generative AI, and software development.
-</p>
-
-<p>
-<strong>Data → Insights → Machine Learning → AI → Real-World Solutions 🚀</strong>
+<strong>Areas Covered:</strong>
+Data Analysis • Data Science • Artificial Intelligence • Machine Learning •
+Python • SQL • Freelancing • AI Development
 </p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>🎯 Career Goals</h2>
+
+<p>
+My goal is to become a professional <strong>Data Scientist / AI Engineer</strong>
+by combining data analysis, machine learning, generative AI, and software development.
+</p>
+
+<p>
+I aim to build intelligent, data-driven applications that solve real-world problems
+and create meaningful impact.
+</p>
+
+<h3 align="center">
+Data → Insights → Machine Learning → AI → Real-World Solutions 🚀
+</h3>
+
+---
+
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=7assan-ali&show_icons=true&theme=tokyonight&hide_border=true" alt="Hassan Ali GitHub Stats"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7assan-ali&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=7assan-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </p>
 
 ---
@@ -297,7 +360,9 @@ data analysis, machine learning, generative AI, and software development.
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=7assan-ali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
 </p>
 
 ---
@@ -318,7 +383,9 @@ data analysis, machine learning, generative AI, and software development.
 
 ---
 
-<h3 align="center">💡 Turning Data Into Insights & Ideas Into Intelligent Solutions.</h3>
+<h3 align="center">
+💡 Turning Data Into Insights & Ideas Into Intelligent Solutions.
+</h3>
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
