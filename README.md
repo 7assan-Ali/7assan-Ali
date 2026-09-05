@@ -7,6 +7,7 @@
 <p>
   <a href="https://github.com/7assan-Ali"><img src="https://img.shields.io/badge/GitHub-7assan--Ali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/hassan-3li"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://7assan-ali.github.io/Hassan-Ali-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -81,6 +82,7 @@ Building toward a career in **Data Science and AI Engineering**, combining analy
 
 ## 🤝 Connect
 
+- **Portfolio:** [7assan-Ali Portfolio](https://7assan-ali.github.io/Hassan-Ali-Portfolio/)
 - **GitHub:** [7assan-Ali](https://github.com/7assan-Ali)
 - **LinkedIn:** [Hassan Ali](https://www.linkedin.com/in/hassan-3li)
 
