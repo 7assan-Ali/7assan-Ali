@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
+<div align="center">
 
-<h3 align="center">Data Analyst | Data Science & AI Student | Aspiring Data Scientist</h3>
+# Hassan Ali
 
-<p align="center">
-  <a href="https://github.com/7assan-Ali"><img src="https://img.shields.io/github/followers/7assan-Ali?style=for-the-badge" alt="GitHub Followers" /></a>
-  <a href="https://www.linkedin.com/in/hassan29ali"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+### Data Analyst · Data Science & AI Student · Aspiring Data Scientist
+
+<p>
+  <a href="https://github.com/7assan-Ali"><img src="https://img.shields.io/badge/GitHub-7assan--Ali-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hassan-3li"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## 👨‍💻 About Me
+</div>
 
-I am a Computer Science & Artificial Intelligence student focused on **Data Analysis, Data Science, Machine Learning, and Generative AI**.
+---
 
-I enjoy turning raw data into actionable insights through data cleaning, SQL analysis, exploratory analysis, visualization, and business intelligence. I am also expanding my skills in machine learning and AI application development.
+## 👋 About Me
+
+I’m a Computer Science & Artificial Intelligence student building practical experience across **Data Analysis, Data Science, Machine Learning, and Generative AI**.
+
+I enjoy transforming raw data into clear, useful insights through **data cleaning, SQL, exploratory analysis, visualization, business intelligence, and statistical analysis**. Alongside analytics, I’m developing my foundations in **Machine Learning and AI application development**.
+
+### What I Work With
 
 - 📊 Data Analysis & Business Intelligence
 - 🐍 Python & SQL
 - 📈 Power BI, Excel & Tableau
-- 🤖 Machine Learning & model evaluation
-- ✨ Generative AI & LLM applications
-- ⚡ FastAPI for AI/ML applications
+- 🧹 Data Cleaning & Exploratory Data Analysis
+- 📐 Statistical Analysis & Outlier Detection
+- 🤖 Machine Learning
+- ✨ Generative AI & LLM Applications
+- ⚡ FastAPI for AI/ML Applications
 
-## 🚀 Featured Projects
+---
 
-### 🛒 Olist E-Commerce Data Analysis
-End-to-end analysis of the Brazilian Olist e-commerce dataset covering customers, products, orders, payments, revenue, delivery performance, and customer satisfaction.
+## 🚀 Selected Projects
 
-**Stack:** Python · SQL · Power BI · Power Query
+| Project | Focus | Technologies |
+|---|---|---|
+| **Olist E-Commerce Data Analysis** | End-to-end e-commerce analysis, customer behavior, revenue, delivery & satisfaction | Python · SQL · Power BI · Power Query |
+| **Car Sales Analysis** | Sales performance, YTD/MTD, YoY growth, pricing & regional analysis | Power BI · DAX · Data Modeling |
+| **Outlier Detection & Treatment** | Comparison of IQR and Z-Score methods for outlier detection | Python · Pandas · NumPy · Statistics |
+| **SQL Data Cleaning** | Practical data cleaning and transformation with SQL | SQL |
+| **Excel Projects** | Business analysis, reporting and dashboarding | Excel · Power Query |
 
-[View Repository](https://github.com/7assan-Ali/Olist-E-Commerce-Data-Analysis)
+---
 
-### 🚗 Car Sales Dashboard
-Interactive Power BI analysis focused on sales performance, YTD/MTD metrics, YoY growth, average price, dealer regions, body styles, and company performance.
+## 🧰 Technical Stack
 
-**Stack:** Power BI · DAX · Data Modeling · Time Intelligence
+**Languages**  
+`Python` `SQL` `C++` `Java` `Dart`
 
-[View Repository](https://github.com/7assan-Ali/Power-BI)
+**Data & Analytics**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
 
-### 📊 Outlier Detection & Treatment
-A Python project comparing IQR and Z-Score methods for detecting and evaluating outliers in a heart disease dataset.
+**BI & Visualization**  
+`Power BI` `DAX` `Excel` `Power Query` `Tableau`
 
-**Stack:** Python · Pandas · NumPy · Statistical Analysis
+**Databases**  
+`SQL Server` `MySQL`
 
-[View Repository](https://github.com/7assan-Ali/Outlier-Detection-and-Treatment)
+**Development & AI**  
+`Git` `GitHub` `FastAPI` `Tkinter` `Machine Learning` `Generative AI` `LLM Applications`
 
-## 🧰 Technical Skills
+---
 
-**Programming:** Python · C++ · Java · Dart
+## 📚 Training & Certifications
 
-**Data:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+- **DEPI — Digital Egypt Pioneers Initiative** — AI & Data Science
+- **NTI — National Telecommunication Institute** — Data Analysis / Freelancing
+- **IBM — AI Developer Professional Certificate**
 
-**Databases:** SQL · MySQL · SQL Server
+---
 
-**BI & Visualization:** Power BI · Excel · Tableau
+## 🎯 Current Direction
 
-**Development:** Git · GitHub · FastAPI · Tkinter
+Building toward a career in **Data Science and AI Engineering**, combining analytics, machine learning, generative AI, and software development to build practical, data-driven solutions.
 
-**AI:** Machine Learning · Generative AI · LLM Applications
+> **Data → Insights → Machine Learning → AI → Real-World Solutions**
 
-## 📚 Training
-
-- **DEPI — Digital Egypt Pioneers Initiative:** AI & Data Science
-- **NTI — National Telecommunication Institute:** Data Analysis / Freelancing
-- **IBM:** AI Developer Professional Certificate
-
-## 🎯 Career Direction
-
-My goal is to build a strong career in **Data Science and AI Engineering**, combining analytics, machine learning, generative AI, and software development to create practical data-driven solutions.
-
-> **Data → Insights → Machine Learning → AI → Real-World Solutions 🚀**
+---
 
 ## 🤝 Connect
 
-- GitHub: [7assan-Ali](https://github.com/7assan-Ali)
-- LinkedIn: [Hassan Ali](https://www.linkedin.com/in/hassan29ali)
+- **GitHub:** [7assan-Ali](https://github.com/7assan-Ali)
+- **LinkedIn:** [Hassan Ali](https://www.linkedin.com/in/hassan-3li)
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+</div>
